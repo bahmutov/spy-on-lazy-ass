@@ -1,0 +1,27 @@
+{
+  "name": "spy-on-lazy-ass",
+  "version": "0.0.1",
+  "description": "Tiny helper for spying on lazy assertions",
+  "main": "spy-on-lazy-ass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bahmutov/spy-on-lazy-ass.git"
+  },
+  "keywords": [
+    "spy",
+    "lazy",
+    "assertion",
+    "sinon",
+    "jasmine",
+    "testing"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahmutov/spy-on-lazy-ass/issues"
+  },
+  "homepage": "https://github.com/bahmutov/spy-on-lazy-ass"
+}
